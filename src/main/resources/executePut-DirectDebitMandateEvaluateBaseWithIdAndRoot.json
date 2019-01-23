@@ -1,0 +1,9 @@
+{
+  "directDebitMandateDirectoryReference" : "DDMDR746666",
+  "directDebitEvaluationRecord" : {},
+  "directDebitTransactionEvaluationResult" : "directDebitTransactionEvaluationResult",
+  "directDebitMandateFacilityReference" : "DDMFR705692",
+  "directDebitMandateDirectoryEntry" : "directDebitMandateDirectoryEntry",
+  "directDebitTransactionRecord" : {},
+  "directDebitMandateEvaluationReference" : "DDMER762013"
+}

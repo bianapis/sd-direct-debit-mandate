@@ -1,0 +1,17 @@
+{
+  "directDebitMandateRegistrationReference" : "DDMRR710148",
+  "directDebitMandateBankReference" : "DDMBR765723",
+  "directDebitMandateAccountReference" : "DDMAR764621",
+  "correspondenceReference" : "CR720762",
+  "directDebitMandateDirectoryReference" : "DDMDR746666",
+  "correspondenceContent" : "correspondenceContent",
+  "documentContent" : "documentContent",
+  "directDebitMandateFacilityReference" : "DDMFR705692",
+  "directDebitMandateValidtofromDates" : "directDebitMandateValidtofromDates",
+  "directDebitMandateCustomerReference" : "DDMCR743805",
+  "documentReference" : "DDMDR746666",
+  "directDebitMandateDirectoryEntry" : "directDebitMandateDirectoryEntry",
+  "directDebitMandateRegistrationRecord" : {},
+  "directDebitMandateStatus" : "directDebitMandateStatus",
+  "directDebitMandateTerms" : "directDebitMandateTerms"
+}
